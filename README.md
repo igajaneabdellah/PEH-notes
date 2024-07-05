@@ -1,1 +1,1 @@
-This PDF contains the notes I took while going through the PEH course. They may be helpful, but they do not replace the value of completing the actual course. Nevertheless, they contain a wealth of instructions, tools, and tricks that could assist any aspiring ethical hacker.
+This PDF contains some random notes I took while going through the PEH course. They may be helpful, but they do not replace the value of completing the actual course. Anyways, they contain a bunch of instructions, tools, and tricks that could assist any aspiring ethical hacker.
